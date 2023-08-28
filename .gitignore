@@ -5,3 +5,4 @@
 local/*
 !local/.gitkeep
 *.code-workspace
+.vscode
